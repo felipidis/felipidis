@@ -1,16 +1,17 @@
-### Hi there 👋
+# Felipe Pimentel de Cerqueira
 
-<!--
-**felipidis/felipidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá👋
+Sou Front-End Developer 🖥️ <br/>
+Estudante de Ciência da Computação :school: <br/>
+Tentando Arte digital nas horas vagas :art:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Estou trabalhando como freelance 
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :blush: &nbsp; Posso te ajudar com CSS, Html, JavaScript, React e Vue
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, Typescript, Vuejs, Nextjs
+ <br/> 💬  &nbsp; Sobre mim: Curto Tecnologias, Games, Arte Digital
+ <br/> :email: &nbsp; Entre em contato comigo:
+ <br/>
+ [![Linkedin Badge](https://img.shields.io/badge/-FelipePimentel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipidis/)](https://www.linkedin.com/in/felipidis/) 
+![Gmail Badge](https://img.shields.io/badge/-felipekdra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipekdra@gmail.com)
+<br/>
