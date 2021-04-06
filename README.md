@@ -1,6 +1,9 @@
 # Felipe Pimentel de Cerqueira
 
-## ![alt text](https://github.com/urielcaire/learnmd/blob/master/imgs/solaire.gif "Praise the sun!")
+<p align="center">
+  <img src="https://github.com/urielcaire/learnmd/blob/master/imgs/solaire.gif" alt=""Praise the sun!"" />
+</p>
+
 Sou Front-End Developer 🖥️ <br/>
 Estudante de Ciência da Computação :school: <br/>
 Tentando Arte digital nas horas vagas :art:
