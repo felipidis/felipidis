@@ -24,7 +24,6 @@ Sou Front-End Developer 🖥️ <br/>
 Estudante de Ciência da Computação :school: <br/>
 Tentando Arte digital nas horas vagas :art:
 
- Estou trabalhando como freelance r
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS, Html, JavaScript, React e Vue
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, Typescript, Vuejs, Nextjs
