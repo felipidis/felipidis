@@ -26,5 +26,5 @@ Tentando Arte digital nas horas vagas :art:
  <br/>
   
 [![Linkedin Badge](https://img.shields.io/badge/-FelipePimentel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipidis/)](https://www.linkedin.com/in/felipidis/) 
-![Gmail Badge](https://img.shields.io/badge/-felipekdra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipekdra@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-felipekdra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipekdra@gmail.com)](mailto:felipekdra@gmail.com)
 <br/>
