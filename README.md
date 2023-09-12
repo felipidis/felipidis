@@ -1,11 +1,5 @@
 # Felipe Pimentel de Cerqueira
 
-<div align="center">
-  <a href="https://github.com/felipidis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipidis&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipidis&theme=midnight-purple&layout=compact&langs_count=7"/>
-</div>
- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -32,5 +26,5 @@ Tentando Arte digital nas horas vagas :art:
  <br/>
   
 [![Linkedin Badge](https://img.shields.io/badge/-FelipePimentel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipidis/)](https://www.linkedin.com/in/felipidis/) 
-![Gmail Badge](https://img.shields.io/badge/-felipekdra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipekdra@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-felipekdra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipekdra@gmail.com)]
 <br/>
