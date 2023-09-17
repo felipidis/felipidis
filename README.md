@@ -19,8 +19,8 @@ Estudante de Ciência da Computação :school: <br/>
 Tentando Arte digital nas horas vagas :art:
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS, Html, JavaScript, React e Vue
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, Typescript, Vuejs, Nextjs
+ <br/> :blush: &nbsp; Posso te ajudar com CSS, Html, JavaScript, React
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, Typescript, Nextjs
  <br/> 💬  &nbsp; Sobre mim: Curto Tecnologias, Games, Arte Digital
  <br/> :email: &nbsp; Entre em contato comigo:
  <br/>
