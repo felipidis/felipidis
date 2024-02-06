@@ -1,30 +1,10 @@
-# Felipe Pimentel de Cerqueira
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-</div>
-  
 <p align="center">
   <img src="https://github.com/urielcaire/learnmd/blob/master/imgs/solaire.gif" alt=""Praise the sun!"" />
 </p>
 
-## Praise the Sun!
+# 💫 Sobre mim:
+🖥️ Sou Front-End Developer<br>🏫 Estudante de Ciência da Computação<br>🎨 Tentando Arte digital nas horas vagas
 
-Sou Front-End Developer 🖥️ <br/>
-Estudante de Ciência da Computação :school: <br/>
-Tentando Arte digital nas horas vagas :art:
 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS, Html, JavaScript, React
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, Typescript, Nextjs
- <br/> 💬  &nbsp; Sobre mim: Curto Tecnologias, Games, Arte Digital
- <br/> :email: &nbsp; Entre em contato comigo:
- <br/>
-  
-[![Linkedin Badge](https://img.shields.io/badge/-FelipePimentel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipidis/)](https://www.linkedin.com/in/felipidis/) 
-[![Gmail Badge](https://img.shields.io/badge/-felipekdra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipekdra@gmail.com)](mailto:felipekdra@gmail.com)
-<br/>
+# 💻 Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
